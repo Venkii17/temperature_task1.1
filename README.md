@@ -23,8 +23,9 @@ Documentation: Providing detailed project documentation, including code comments
 Technologies Used:
 C Programming: Core language for development.
 Visual Studio Code (VS Code): The development environment for coding and testing.
+![Screenshot 2024-10-26 230403](https://github.com/user-attachments/assets/1c077b06-93b8-4490-a7df-c076dafff87a)
 
 
 
-![Screenshot 2024-10-26 223412](https://github.com/user-attachments/assets/bc64cf42-9753-40d4-8027-c1ddbcffd40d)
+
 
